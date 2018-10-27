@@ -19,7 +19,7 @@ images to that topic along with a rating and the title.
 If you would like to become a collaborator on this project please send an email in the following format -
 
 To: patrick.gould94@gmail.com
-Subject: Gifinator Collab Rquest
+Subject: Gifinator Collab Request
 
 All requests will be answered as soon as possible. Thankyou.
 
