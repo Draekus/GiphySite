@@ -14,7 +14,7 @@ images to that topic along with a rating and the title.
 
 @Author: Patrick Gould
 
-//||- Collaboration Opportunities -||\\
+//||- Collaboration Opportunities -||\\\
 
 If you would like to become a collaborator on this project please send an email in the following format -
 
