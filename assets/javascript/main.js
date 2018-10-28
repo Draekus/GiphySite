@@ -28,6 +28,7 @@ var topics = ["cats", "startrek", "csgo", "rick and morty", "fortnite", "pubg"];
             .then(function(response) {
               var results = response.data;
               
+              $("#gifWrapper").text("")
               // This for loop iterates over the 10 item response from the giphy api and prints all the images as stills
               for (var i = 0; i < results.length; i++) {
                 var card = $("<div>");
